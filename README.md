@@ -74,6 +74,6 @@
 
 # DevOps | SRE Roadmap
 
-<img src="/images/devops_roadmap.png">  
+<img src="./images/devops_roadmap.png">  
 
 Image Credits: https://github.com/kamranahmedse/developer-roadmap
